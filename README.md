@@ -11,7 +11,7 @@ Our Goal was to improve the website page, allowing the users to filter at the sa
 * Deliverable 1 Filter UFO sightings on multiple criteria 
 Using JavaScript and HTML, it was  modified the code in the index.html file to create more table filters. Aditionally  to the date filter, it was  added filters for the city, state, country, and shape, as shown in the following image:
 
-![this is and image](
+![this is and image](https://github.com/JJF1962/UFOs/blob/main/images/Filter%20Search.PNG)
 
 It was used extensively during the code process the filter variable and the following functions: updateFilters(), handleClick(), filterTable(), d3.select(this), ForEach(), if Else, list-group-item class, label, and input tags to add filtered data yo an index.html file, and finally customize the page with CSS.
 
