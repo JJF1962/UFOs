@@ -16,6 +16,7 @@ Using JavaScript and HTML, it was  modified the code in the index.html file to c
 It was used extensively during the code process the filter variable and the following functions: updateFilters(), handleClick(), filterTable(), d3.select(this), ForEach(), if Else, list-group-item class, label, and input tags to add filtered data yo an index.html file, and finally customize the page with CSS.
 
 * Delivery 2 A written report on the UFO analysis
+
 This docyments was added to explain the objective, results and summary.
 
 ## Summary & Conclusion
