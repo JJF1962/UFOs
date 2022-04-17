@@ -17,7 +17,7 @@ It was used extensively during the code process the filter variable and the foll
 
 * Delivery 2 A written report on the UFO analysis
 
-This docyments was added to explain the objective, results and summary.
+This document was added to explain the objective, results and summary of this cahhelnge number 11.
 
 ## Summary & Conclusion
 * JavaScript is a very versatile tool, that allow interact in an efficient way with websites using VSCode
